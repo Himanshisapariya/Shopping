@@ -1,0 +1,18 @@
+admin
+
+update product - change button title and check all the functionality
+search functionality
+fix 404 pages
+
+
+front
+
+http://localhost:8000/home/product/3 : fix box height = done
+login page - add register button/link = done.
+register - phone number validation - min 10 digit = done
+welcome page after register - make it proper = done
+header logo - add link to home page = done
+header - after login remove login link and register link and add logout link = done
+
+cart page - make product quantity validation = done
+
